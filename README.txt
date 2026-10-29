@@ -1,6 +1,6 @@
 RideIQ Platform Prototype
 =========================
-Version 3 · 28 October 2026 · VAS Acquico
+Version 3.1 · 29 October 2026 · VAS Acquico
 
 What this is
 A clickable prototype of the RideIQ platform for client review. All figures,
@@ -21,5 +21,7 @@ What to look at
 
 Credits
 State boundaries: geoBoundaries (CC BY 4.0).
+Lagos LGA boundaries: GRID3 via geoBoundaries, CC BY 4.0.
+Population: 2006 census (NPC). LGA figures are modelled, not tracked.
 
 Commercial Sensitive — share only with approved recipients.
